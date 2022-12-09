@@ -1,3 +1,3 @@
 # Simulacion-Examen
 
-https://github.com/davidruiiz/Simulaci-n-Examen.git
+https://github.com/davidruiiz/Simulacion-Examen.git
