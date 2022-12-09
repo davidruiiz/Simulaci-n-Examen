@@ -4,7 +4,7 @@ def minion_game(string):
     kevin_score = 0
     stuart_score = 0
     for i in range(len(string)):
-        if string[i] in vowels:
+        if string[0] in vowels:
             kevin_score += (len(string)-i)
         else:
             stuart_score += (len(string)-i)
