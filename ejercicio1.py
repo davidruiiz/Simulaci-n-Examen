@@ -17,7 +17,7 @@ def minion_game(string):
       # Iteramos sobre todas las subcadenas que comiencen con la letra actual
       for j in range(i + 1, len(string) + 1):
         # Agregamos la subcadena al diccionario y aumentamos su puntuación en 1
-        substrings[string[i:j]] = substrings.get(string[i:j], 0) + 1
+        substrings[string[i:j]] = substrings.get(string[i:j], 0) + 1s
   return substrings
 # Probamos la función con la cadena "BANANA"
 
