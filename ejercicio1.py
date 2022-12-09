@@ -21,4 +21,4 @@ if __name__ == '__main__':
     minion_game(s)
     '''
 
-minion_game('bananaa')
+minion_game('banana')
