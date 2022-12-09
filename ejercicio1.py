@@ -14,9 +14,11 @@ def minion_game(string):
         print ("Stuart", stuart_score)
     else:
         print ("Draw")
-
+'''
 if __name__ == '__main__':
 
-    s = raw_input('banana')
+    s = raw_input()
     minion_game(s)
+    '''
 
+minion_game('bananaa')
